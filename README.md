@@ -2,7 +2,7 @@
 
 ### How to use?
 ```bash
-wget https://github.com/Mikert1/S.O.R.T/blob/main/install.lua
+wget https://raw.githubusercontent.com/Mikert1/S.O.R.T/main/install.lua
 ```
 
 ### Info
